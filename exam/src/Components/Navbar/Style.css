@@ -1,0 +1,22 @@
+.nav{
+    overflow: hidden;
+    background: linear-gradient(to bottom, darkblue, skyblue);
+}
+a {
+    text-decoration: none;
+    margin:5px;
+    color: lightcyan;
+    padding: 5px;
+}
+a:hover{
+    background-color:blue;
+    border-radius: 5px;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}

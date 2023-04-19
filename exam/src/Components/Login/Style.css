@@ -1,0 +1,8 @@
+
+input, button{
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: lightblue;
+    margin: 5px;
+}
