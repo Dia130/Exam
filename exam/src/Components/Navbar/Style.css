@@ -1,22 +1,25 @@
-.nav{
+.nav {
     overflow: hidden;
     background: linear-gradient(to bottom, darkblue, skyblue);
+    box-shadow: 10px 10px 10px rgb(55, 55, 138);
 }
+
 a {
     text-decoration: none;
-    margin:5px;
+    margin: 5px;
     color: lightcyan;
     padding: 5px;
 }
-a:hover{
-    background-color:blue;
+
+a:hover {
+    background-color: blue;
     border-radius: 5px;
 }
 
-.left{
+.left {
     float: left;
 }
 
-.right{
+.right {
     float: right;
 }
